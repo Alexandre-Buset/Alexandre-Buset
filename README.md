@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm currently doing my doctorate on Multibody modeling of railway vehicles🚆.
+- I'm part of the [Robotran](https://www.robotran.be/) developing team 👯.
+- You can contact me through my UCLouvain mail adress 📫 alexandre.buset@uclouvain.be``
+
 <!--
 **Alexandre-Buset/Alexandre-Buset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
